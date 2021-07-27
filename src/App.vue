@@ -18,6 +18,7 @@ export default {
       app_name: "Make Your Burger",
     };
   },
+    
 };
 </script>
 
